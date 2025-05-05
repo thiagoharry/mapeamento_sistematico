@@ -1,0 +1,743 @@
+a1,IEEE Xplorer,2007,Discarded: Secondary Exclusion Criteria 1,,,
+a2,IEEE Xplorer,2008,Accepted,Tag-Based Scheme,Fair Exchange Protocol,Discrete Logarithm
+a3,IEEE Xplorer,2008,Accepted,Traditional Scheme,Online/Offline Signature,Discrete Logarithm
+a4,IEEE Xplorer,2008,Accepted,Traditional Scheme,Online/Offline Signature,Discrete Logarithm
+a5,IEEE Xplorer,2008,Accepted,ID-Based Scheme,Online/Offline Signature,Gap Diffie-Hellman
+a6,IEEE Xplorer,2008,Accepted,Traditional Scheme,Chameleon Signature and Authentication,Discrete Logarithm
+a7,IEEE Xplorer,2009,Accepted,Traditional Scheme,Chameleon Signature,Discrete Logarithm
+a8,IEEE Xplorer,2010,Accepted,Traditional Scheme,Authentication,Discrete Logarithm
+a9,IEEE Xplorer,2010,Accepted,Tag-Based Scheme,Fair Exchange Protocol,Discrete Logarithm
+a10,IEEE Xplorer,2010,Discarded: Secondary Exclusion Criteria 1,,,
+a11,IEEE Xplorer,2010,Accepted,Traditional Scheme,Online/Offline Signature,Discrete Logarithm
+a12,IEEE Xplorer,2008,Accepted,Traditional Scheme,Online/Offline Signature,Discrete Logarithm and Factoring
+a13,IEEE Xplorer,2011,Accepted,Traditional Scheme,Authentication,Discrete Logarithm
+a14,IEEE Xplorer,2011,Accepted,Traditional Scheme,Authentication,Discrete Logarithm
+a15,IEEE Xplorer,2012,Accepted,Traditional Scheme,Authentication,Discrete Logarithm
+a16,IEEE Xplorer,2012,Accepted,Tag-Based Scheme,Authentication,Discrete Logarithm
+a17,IEEE Xplorer,2012,Accepted,Traditional Scheme,Chameleon Signature,Generic Group
+a18,IEEE Xplorer,2012,Accepted,Certificateless Scheme,-,Gap Diffie-Hellman
+a19,IEEE Xplorer,2012,Accepted,Traditional Scheme,Mathematical Proof,Discrete Logarithm
+a20,IEEE Xplorer,2013,Accepted,Traditional Scheme,Chameleon Signature,Discrete Logarithm
+a21,IEEE Xplorer,2013,Accepted,ID-Based Scheme,Signature,Gap Diffie-Hellman
+a22,IEEE Xplorer,2013,Accepted,Traditional Scheme,Sanitizable Signature,Generic Group
+a23,IEEE Xplorer,2014,Accepted,Tag-Based Scheme,Authentication,Discrete Logarithm
+a24,IEEE Xplorer,2014,Accepted,Multitrapdoor Scheme,Sanitizable Signature,Discrete Logarithm
+a25,IEEE Xplorer,2014,Accepted,-,Chameleon Signature and Authentication,-
+a26,IEEE Xplorer,2015,Accepted,Multitrapdoor Scheme,Signature,Discrete Logarithm
+a27,IEEE Xplorer,2015,Accepted,Traditional Scheme,Authentication,Discrete Logarithm
+a28,IEEE Xplorer,2015,Accepted,Traditional Scheme,Chameleon Signature,Factoring and Random Oracle
+a29,IEEE Xplorer,2017,Accepted,Traditional Scheme,Authentication,Discrete Logarithm
+a30,IEEE Xplorer,2017,Accepted,Traditional Scheme,Online/Offline Signature,Discrete Logarithm
+a31,IEEE Xplorer,2017,Accepted,Secret-Coin Scheme,Redactable Blockchain,Black Box Construction 
+a32,IEEE Xplorer,2017,Accepted,Traditional Scheme,Authentication,-
+a33,IEEE Xplorer,2017,Accepted,Traditional Scheme,Authentication,-
+a34,IEEE Xplorer,2017,Accepted,Traditional Scheme,Sanitizable Signature,RSA
+a35,IEEE Xplorer,2017,Accepted,Traditional Scheme,Authentication,-
+a36,IEEE Xplorer,2018,Accepted,Traditional Scheme,Search Over Encryption,-,
+a37,IEEE Xplorer,2018,Accepted,Traditional Scheme,Authentication,Discrete Logarithm
+a38,IEEE Xplorer,2018,Accepted,Traditional Scheme,Sanitizable Signature,Discrete Logarithm
+a39,IEEE Xplorer,2018,Accepted,Traditional Scheme,Authentication,Discrete Logarithm
+a40,IEEE Xplorer,2018,Accepted,Traditional Scheme,Authentication,Discrete Logarithm
+a41,IEEE Xplorer,2018,Accepted,Traditional Scheme,Sanitizable Signature,Discrete Logarithm
+a42,IEEE Xplorer,2018,Accepted,Traditional Scheme,Signature,Discrete Logarithm
+a43,IEEE Xplorer,2018,Accepted,Traditional Scheme,Online/Offline Encryption,-
+a44,IEEE Xplorer,2018,Accepted,Traditional Scheme,Online/Offline Signature,Discrete Logarithm
+a45,IEEE Xplorer,2018,Accepted,Traditional Scheme,Signature,-
+a46,IEEE Xplorer,2018,Accepted,Traditional Scheme,Signature,-
+a47,IEEE Xplorer,2019,Accepted,ID-Secret-Coin Scheme,Sanitizable Signature,Gap Diffie-Hellman
+a48,IEEE Xplorer,2019,Accepted,Secret-Coin Scheme,Redactable Blockchain,-
+a49,IEEE Xplorer,2019,Accepted,Traditional Scheme,Mathematical Proof,-
+a50,IEEE Xplorer,2020,Accepted,Traditional Scheme,Authentication,Discrete Logarithm
+a51,IEEE Xplorer,2020,Accepted,ID-Secret-Coin Scheme,Redactable Blockchain,Gap Diffie-Hellman
+a52,IEEE Xplorer,2020,Accepted,Traditional Scheme,Redactable Blockchain,-
+a53,IEEE Xplorer,2020,Accepted,Traditional Scheme,Redactable Blockchain,Generic Group
+a54,IEEE Xplorer,2020,Accepted,Traditional Scheme,Authentication,-
+a55,IEEE Xplorer,2020,Accepted,Traditional Scheme,Authentication,-
+a56,IEEE Xplorer,2020,Discarded: Secondary Exclusion Criteria 1,,,
+a57,IEEE Xplorer,2020,Accepted,Traditional Scheme,Authentication,-
+a58,IEEE Xplorer,2021,Accepted,Traditional Scheme,Authentication,-
+a59,IEEE Xplorer,2021,Accepted,Tag-Based,Mathematical Proof,-
+a60,IEEE Xplorer,2021,Discarded: Secondary Exclusion Criteria 1,,,
+a61,IEEE Xplorer,2021,Accepted,-,Redactable Blockchain,-
+a62,IEEE Xplorer,2021,Accepted,-,Authentication,-
+a63,IEEE Xplorer,2021,Accepted,Identity-Based,Authentication,Lattice
+a64,IEEE Xplorer,2021,Accepted,Traditional Scheme,Authentication,-
+a65,IEEE Xplorer,2021,Accepted,-,Redactable Blockchain,-
+a66,IEEE Xplorer,2021,Accepted,Dynamic Threshold Trapdoor Chameleon Hash,Redactable Blockchain,Gap Diffie-Hellman
+a67,IEEE Xplorer,2021,Accepted,Secret-Coin Scheme,Redactable Blockchain,Gap Diffie-Hellman
+a68,IEEE Xplorer,2021,Accepted,Traditional Scheme,Authentication,-
+a69,IEEE Xplorer,2021,Discarded: Secondary Exclusion Criteria 2,,,
+b1,ACM Digital Library,1998,Discarded: Secondary Exclusion Criteria 1,,,
+b2,ACM Digital Library,1999,Accepted,-,Mathematical Proof,-
+b3,ACM Digital Library,2001,Discarded: Secondary Exclusion Criteria 1,,,
+b4,ACM Digital Library,2005,Discarded: Secondary Exclusion Criteria 4,,,
+b5,ACM Digital Library,2006,Accepted,Traditional Scheme,Authentication,-
+b6,ACM Digital Library,2006,Discarded: Secondary Exclusion Criteria 1,,,
+b7,ACM Digital Library,2006,Discarded: Secondary Exclusion Criteria 1,,,
+b8,ACM Digital Library,2007,Accepted,Traditional Scheme,Chameleon Signature,-
+b9,ACM Digital Library,2008,Accepted,Identity Based,Online/Offline Signature,Gap Diffie-Hellman
+b10,ACM Digital Library,2008,Discarded: Secondary Exclusion Criteria 4,,,
+b11,ACM Digital Library,2008,Discarded: Secondary Exclusion Criteria 1,,,
+b12,ACM Digital Library,2009,Accepted,Traditional Scheme,Sanitizable Signature,Generic Group
+b14,ACM Digital Library,2010,Discarded: Secondary Exclusion Criteria 1,,,
+b15,ACM Digital Library,2010,Accepted,-,Mathematical Proof,,-
+b16,ACM Digital Library,2011,Discarded: Secondary Exclusion Criteria 1,,,
+b17,ACM Digital Library,2012,Accepted,Traditional Scheme,Authentication,Discrete Logarithm
+b18,ACM Digital Library,2013,Accepted,-,Mathematical Proof,,-
+b19,ACM Digital Library,2013,Accepted,Traditional Scheme,Mathematical Proof,Discrete Logarithm
+b20,ACM Digital Library,2013,Discarded: Secondary Exclusion Criteria 1,,,
+b21,ACM Digital Library,2013,Discarded: Secondary Exclusion Criteria 1,,,
+b22,ACM Digital Library,2014,Discarded: Secondary Exclusion Criteria 1,,,
+b23,ACM Digital Library,2015,Accepted,Traditional Scheme,Authentication,Discrete Logarithm
+b23,ACM Digital Library,2015,Accepted,Traditional Scheme,Sanitizable Signature,Generic Group
+b24,ACM Digital Library,2015,Discarded: Secondary Exclusion Criteria 1,,,
+b25,ACM Digital Library,2015,Accepted,Traditional Scheme,Chameleon Signature,-
+b26,ACM Digital Library,2015,Accepted,Traditional Scheme,Chameleon Signature,-
+b27,ACM Digital Library,2015,Discarded: Secondary Exclusion Criteria 1,,,
+b28,ACM Digital Library,2016,Discarded: Secondary Exclusion Criteria 1,,,
+b29,ACM Digital Library,2017,Accepted,Traditional Scheme,Online/Offline Signature,Discrete Logarithm
+b30,ACM Digital Library,2017,Discarded: Secondary Exclusion Criteria 1,,,
+b31,ACM Digital Library,2017,Discarded: Secondary Exclusion Criteria 1,,,
+b32,ACM Digital Library,2017,Discarded: Secondary Exclusion Criteria 1,,,
+b33,ACM Digital Library,2018,Discarded: Secondary Exclusion Criteria 1,,,
+b34,ACM Digital Library,2019,Accepted,-,Authentication,,-
+b35,ACM Digital Library,2019,Accepted,Traditional Scheme,Sanitizable Signature,-
+b36,ACM Digital Library,2019,Accepted,Traditional Scheme,Oblivious Transfer,Lattice 
+b37,ACM Digital Library,2019,Discarded: Secondary Exclusion Criteria 1,,,
+b38,ACM Digital Library,2019,Discarded: Secondary Exclusion Criteria 1,,,
+b39,ACM Digital Library,2019,Discarded: Secondary Exclusion Criteria 1,,,
+b40,ACM Digital Library,2019,Discarded: Primary Exclusion Criteria 3,,,
+b41,ACM Digital Library,2019,Discarded: Secondary Exclusion Criteria 1,,,
+b42,ACM Digital Library,2019,Discarded: Secondary Exclusion Criteria 1,,,
+b43,ACM Digital Library,2020,Discarded: Secondary Exclusion Criteria 1,,,
+b44,ACM Digital Library,2020,Accepted,Tag-Based,Redactable Blockchain,Discrete Logarithm
+b45,ACM Digital Library,2020,Accepted,Tag-Based,-,Discrete Logarithm
+b46,ACM Digital Library,2020,Accepted,Traditional Scheme,Signature,Discrete Logarithm
+b47,ACM Digital Library,2020,Accepted,ID-Secret-Coin Scheme,Homomorphic Signcryption,Discrete Logarithm
+b48,ACM Digital Library,2020,Accepted,One-Shot Scheme,Signature,Quantum Construction
+b49,ACM Digital Library,2020,Discarded: Secondary Exclusion Criteria 1,,,
+b50,ACM Digital Library,2020,Discarded: Secondary Exclusion Criteria 1,,,
+b51,ACM Digital Library,2021,Discarded: Secondary Exclusion Criteria 1,,,
+b52,ACM Digital Library,2021,Discarded: Secondary Exclusion Criteria 6,,,
+b53,ACM Digital Library,2021,Accepted,Revocable Ephemeral Scheme,Redactable Blockchain,Black Box
+b54,ACM Digital Library,2021,Accepted,Secret-Coin,Redactable Blockchain,Black Box
+b55,ACM Digital Library,2021,Accepted,Traditional Scheme,Mathematical Proof,Discrete Logarithm
+b56,ACM Digital Library,2021,Discarded: Secondary Exclusion Criteria 1,,,
+b57,ACM Digital Library,2021,-,Signature,-
+b58,ACM Digital Library,2021,Discarded: Primary Exclusion Criteria 3,,,
+
+c1,Springer Link,1998,Discarded: Secondary Exclusion Criteria 1,,,
+c2,Springer Link,1998,Discarded: Secondary Exclusion Criteria 1,,,
+c3,Springer Link,1999,Accepted,Traditional Scheme,Mathematical Proof,-
+c4,Springer Link,2001,Accepted,Traditional Scheme,Online/Offline Signature,Discrete Logarithm
+c5,Springer Link,2002,Accepted,Traditional Scheme,Online/Offline Signature,-
+c6,Springer Link,2002,Discarded: Secondary Exclusion Criteria 1,,,
+c7,Springer Link,2002,Discarded: Secondary Exclusion Criteria 1,,,
+c8,Springer Link,2002,Discarded: Secondary Exclusion Criteria 6,,,
+c9,Springer Link,2003,Accepted,Traditional Scheme,Online/Offline Signature,Discrete Logarithm
+c10,Springer Link,2003,Discarded: Secondary Exclusion Criteria 1,,,
+c11,Springer Link,2004,Discarded: Secondary Exclusion Criteria 1,,,
+c12,Springer Link,2004,Accepted,ID-Secret-Coin,Chameleon Signature,Gap Diffie-Hellman
+c13,Springer Link,2004,Accepted,ID-Based,Chameleon Signature,RSA in Random Oracle Model
+c14,Springer Link,2004,Accepted,ID-Based,Signature,Factoring and RSA
+c15,Springer Link,2004,Accepted,ID-Based,Chameleon Signature,-
+c16,Springer Link,2004,Accepted,Traditional Scheme,Signature,Discrete Logarithm
+c17,Springer Link,2004,Accepted,ID-Based,Chameleon Signature,Gap Diffie-Hellman
+c18,Springer Link,2004,Discarded: Secondary Exclusion Criteria 1,,,
+c19,Springer Link,2004,Accepted,Traditional Scheme,Chameleon Signature,,-
+c20,Springer Link,2005,Discarded: Secondary Exclusion Criteria 1,,,
+c21,Springer Link,2005,Accepted,Traditional Scheme,Online/Offline Signature,Factoring
+c22,Springer Link,2005,Accepted,Traditional Scheme and Tag-Based Scheme and ID-Based,Chameleon Signature,Factoring and RSA and Gap Diffie-Hellman
+c23,Springer Link,2005,Accepted,ID-Based,Sanitizable Signature,-
+c24,Springer Link,2005,Accepted,Traditional Scheme,Chameleon Signature,Paillier Cryptosystem
+c25,Springer Link,2005,Accepted,ID-Based,Chameleon Signature,-
+c26,Springer Link,2005,Discarded: Secondary Exclusion Criteria 1,,,
+c27,Springer Link,2005,Discarded: Secondary Exclusion Criteria 1,,,
+c28,Springer Link,2005,Discarded: Secondary Exclusion Criteria 1,,,
+c29,Springer Link,2005,Discarded: Secondary Exclusion Criteria 1,,,
+c30,Springer Link,2005,Accepted,Traditional Scheme,Sanitizable Signature,Discrete Logarithm
+c31,Springer Link,2006,Discarded: Secondary Exclusion Criteria 1,,,
+c32,Springer Link,2006,Discarded: Secondary Exclusion Criteria 1,,,
+c33,Springer Link,2006,Accepted,Traditional Scheme,VSH
+c34,Springer Link,2006,Accepted,ID-Based,Chameleon Signature,Gap Diffie-Hellman
+c35,Springer Link,2006,Accepted,Traditional Scheme,Sanitizable Signature,Discrete Logarithm
+c36,Springer Link,2006,Accepted,Traditional Scheme,Online/Offline Signture,Discrete Logarithm
+c37,Springer Link,2006,Accepted,Traditional Scheme,Mathematical Proof,-
+c38,Springer Link,2006,Accepted,Traditional Scheme,Mathematical Proof,RSA
+c39,Springer Link,2006,Discarded: Secondary Exclusion Criteria 1,,,
+c40,Springer Link,2006,Accepted,Traditional Scheme,Online/Offline Signature,Factoring
+c41,Springer Link,2006,Discarded: Secondary Exclusion Criteria 1,,,
+c42,Springer Link,2006,Discarded: Secondary Exclusion Criteria 1,,,
+c43,Springer Link,2006,Accepted,Traditional Scheme,Mathematical Proof,Discrete Logarithm
+c44,Springer Link,2006,Discarded: Secondary Exclusion Criteria 1,,,
+c45,Springer Link,2006,Accepted,Traditional Scheme,Mathematical Proof,-
+c46,Springer Link,2007,Discarded: Secondary Exclusion Criteria 1,,,
+c47,Springer Link,2007,Discarded: Secondary Exclusion Criteria 1,,,
+c48,Springer Link,2007,Accepted,Traditional Scheme,Authentication,VSH
+c49,Springer Link,2007,Accepted,Traditional Scheme,sanitizable Signature,Generic Group
+c50,Springer Link,2007,Accepted,Traditional Scheme,Online/Offline Signature,Discrete Logarithm
+c51,Springer Link,2007,Accepted,Tag-Based,Chameleon Signature,Factoring
+c52,Springer Link,2007,Accepted,Traditional Scheme,Mathematical proof,-
+c53,Springer Link,2007,Accepted,Traditional Scheme,Online/Offline Signature,Discrete Logarithm
+c54,Springer Link,2007,Accepted,ID-Based,Chameleon Signature,Gap Diffie-Hellman
+c55,Springer Link,2007,Accepted,ID-Based,Mathematical proof,-
+c56,Springer Link,2007,Discarded: Secondary Exclusion Criteria 1,,,
+c57,Springer Link,2007,Discarded: Primary Exclusion Criteria 3,,,
+c58,Springer Link,2007,Accepted,Traditional Scheme,Mathematical proof,-
+c59,Springer Link,2007,Accepted,Traditional Scheme,Mathematical Proof,-
+c60,Springer Link,2007,Discarded: Secondary Exclusion Criteria 1,,,
+c61,Springer Link,2008,Discarded: Secondary Exclusion Criteria 1,,,
+c62,Springer Link,2008,Discarded: Secondary Exclusion Criteria 1,,,
+c63,Springer Link,2008,Discarded: Secondary Exclusion Criteria 1,,,
+c64,Springer Link,2008,Accepted,Traditional Scheme,Signature Scheme and Online/Offline Signature,Discrete Logarithm
+c65,Springer Link,2008,Accepted,ID-Based,Sanitizable Signature,RSA
+c66,Springer Link,2008,Accepted,Traditional Scheme,-,VSH and Discrete Logarithm and Factoring
+c67,Springer Link,2008,Accepted,Traditional Scheme,Sanitizable Signature,Discrete Logarithm
+c68,Springer Link,2008,Accepted,ID-Based,Signature Scheme,Gap Diffie-Hellman
+c69,Springer Link,2008,Accepted,Traditional Scheme,Chameleon Signature,Discrete Logarithm
+c70,Springer Link,2008,Accepted,Traditional Scheme,Mathematical Proof,-
+c71,Springer Link,2008,Discarded: Secondary Exclusion Criteria 1,,,
+c72,Springer Link,2008,Accepted,Traditional Scheme,Mathematical Proof,-
+c73,Springer Link,2008,Discarded: Primary Exclusion Criteria 3,,,
+c74,Springer Link,2008,Discarded: Secondary Exclusion Criteria 1,,,
+c75,Springer Link,2008,Discarded: Secondary Exclusion Criteria 1,,,
+c76,Springer Link,2008,Discarded: Secondary Exclusion Criteria 1,,,
+c77,Springer Link,2008,Discarded: Secondary Exclusion Criteria 1,,,
+c78,Springer Link,2008,Discarded: Secondary Exclusion Criteria 1,,,
+c79,Springer Link,2008,Discarded: Secondary Exclusion Criteria 1,,,
+c80,Springer Link,2008,Discarded: Secondary Exclusion Criteria 1,,,
+c81,Springer Link,2009,Accepted,Traditional Scheme,Mathematical Proof,Discrete Logarithm
+c82,Springer Link,2009,Accepted,Traditional Scheme,Mathematical Proof,-
+c83,Springer Link,2009,Accepted,Traditional Scheme,Mathematical Proof,-
+c84,Springer Link,2009,Accepted,Traditional Scheme,Mathematical Proof,Discrete Logarithm
+c85,Springer Link,2009,Accepted,Traditional Scheme,ATP Counter Unit,-
+c86,Springer Link,2009,Accepted,Tag-Based,Sanitizable Signature,-
+c87,Springer Link,2009,Discarded: Secondary Exclusion Criteria 1,,,
+c88,Springer Link,2009,Accepted,-,Mathematical Proof,-
+c89,Springer Link,Traditional Scheme,Online/Offline Signature,Discrete Logarithm
+c90,Springer Link,2009,Discarded: Secondary Exclusion Criteria 1,,,
+c91,Springer Link,2009,Accepted,Traditional Scheme,Authentication,-
+c92,Springer Link,2010,Accepted,Tag-Based,Chameleon Signature,Discrete Logarithm
+c93,Springer Link,2010,Accepted,Traditional Scheme,Online/Offline Signature,-
+c94,Springer Link,2010,Accepted,Traditional Scheme,Mathematical Proof,Discrete Logarithm
+c95,Springer Link,2010,Accepted,Traditional Scheme,Mathematical Proof,-
+c96,Springer Link,2010,Discarded: Secondary Exclusion Criteria 1,,,
+c97,Springer Link,2010,Accepted,Traditional Scheme,Mathematical Proof,Lattice Based
+c98,Springer Link,2010,Accepted,ID-Based,Chameleon Signature,RSA
+c99,Springer Link,2010,Accepted,-,Mathematical Proof,-
+c100,Springer Link,2010,Accepted,Traditional Scheme,Sanitizable Signature,-
+c101,Springer Link,2010,Accepted,Traditional Scheme,Mathematical Proof,-
+c102,Springer Link,2010,Discarded: Secondary Exclusion Criteria 1,,,
+c103,Springer Link,2010,Discarded: Secondary Exclusion Criteria 1,,,
+c104,Springer Link,2010,Accepted,Traditional Scheme,Sanitizable Signature,VSH
+c105,Springer Link,2010,Discarded: Secondary Exclusion Criteria 1,,,
+c106,Springer Link,2010,Discarded: Secondary Exclusion Criteria 1,,,
+c107,Springer Link,2010,Discarded: Secondary Exclusion Criteria 1,,,
+c108,Springer Link,2010,Discarded: Secondary Exclusion Criteria 1,,,
+c109,Springer Link,2010,Accepted,Traditional Scheme,Mathematical proof,Discrete Logarithm
+c110,Springer Link,2010,Discarded: Secondary Exclusion Criteria 1,,,
+c111,Springer Link,2011,Accepted,Tag-Based,Chameleon Signature,Factoring
+c112,Springer Link,2011,Accepted,ID-Based,Authentication and Sanitizable Signature,Gap Diffie-Hellman
+c113,Springer Link,2011,Accepted,Traditional Scheme,Signature,Lattice Based and Factoring
+c114,Springer Link,2011,Accepted,Traditional Scheme,Sanitizable Signature,-
+c115,Springer Link,2011,Accepted,Tag-Based,Sanitizable Signature,-
+c116,Springer Link,2011,Accepted,Traditional Scheme,Authentication,Generic Group
+c117,Springer Link,2011,Accepted,Traditional Scheme,Mathematical Proof,-
+c118,Springer Link,2011,Accepted,Traditional Scheme,ABO-TDF,Diffie-Hellman
+c119,Springer Link,2011,Accepted,Traditional Scheme,Online/Offline Signature (Verifying),Discrete Logarithm
+c120,Springer Link,2011,Accepted,-,Mathematical Proof,,-
+c121,Springer Link,2011,Accepted,Traditional Scheme,Mathematical proof,,-
+c122,Springer Link,2011,Accepted,-,ABO-TDF,,-
+c123,Springer Link,2011,Discarded: Secondary Exclusion Criteria 1,,,
+c124,Springer Link,2011,Accepted,Traditional Scheme,Mathematical Proof,-
+c125,Springer Link,2011,Discarded: Secondary Exclusion Criteria 1,,,
+c126,Springer Link,2011,Accepted,Traditional Scheme,Mathematical Proof,RSA
+c127,Springer Link,2011,Accepted,Traditional Scheme,Online/Offline Signature,-
+c128,Springer Link,2011,Accepted,Traditional Scheme,Online/Offline Signature,Discrete Logarithm
+c129,Springer Link,2011,Accepted,-,Mathematical Proof,,-
+c130,Springer Link,2011,Discarded: Secondary Exclusion Criteria 1,,,
+c131,Springer Link,2011,Accepted,-,Mathematical Proof,,-
+c132,Springer Link,2011,Discarded: Secondary Exclusion Criteria 1,,,
+c133,Springer Link,2011,Discarded: Primary Exclusion Criteria 3,,,
+c134,Springer Link,2011,Discarded: Secondary Exclusion Criteria 1,,,
+c135,Springer Link,2012,Accepted,Traditional Scheme,Authentication,Discrete Logarithm
+c136,Springer Link,2012,Accepted,Traditional Scheme,Mathematical Proof,,-
+c137,Springer Link,2012,Discarded: Secondary Exclusion Criteria 1,,,
+c138,Springer Link,2012,Accepted,Traditional Scheme,ABL-LTF,,-
+c139,Springer Link,2012,Accepted,Traditional Scheme,Mathematical Proof,-
+c140,Springer Link,2012,Accepted,Traditional Scheme,Mathematical Proof,-
+c141,Springer Link,2012,Accepted,Tag-Based,Sanitizable Signature,-
+c142,Springer Link,2012,Discarded: Secondary Exclusion Criteria 1,,,
+c143,Springer Link,2012,Accepted,-,Mathematical Proof,,-
+c144,Springer Link,2012,Discarded: Secondary Exclusion Criteria 1,,,
+c145,Springer Link,2012,Accepted,Traditional Scheme,Signature Scheme and Mathematical Proof,Discrete Logarithm
+c146,Springer Link,2012,Discarded: Secondary Exclusion Criteria 1,,,
+c147,Springer Link,2012,Accepted,-,Mathematical Proof,,-
+c148,Springer Link,2012,Discarded: Secondary Exclusion Criteria 1,,,
+c149,Springer Link,2012,Discarded: Secondary Exclusion Criteria 1,,,
+c150,Springer Link,2012,Discarded: Secondary Exclusion Criteria 1,,,
+c151,Springer Link,2012,Discarded: Secondary Exclusion Criteria 1,,,
+c152,Springer Link,2012,Accepted,-,Mathematical proof,-
+c153,Springer Link,2012,Discarded: Secondary Exclusion Criteria 5,,,
+c154,Springer Link,2012,Accepted,Tag-Based,Sanotozable Signature,-
+c155,Springer Link,2012,Accepted,Traditional Scheme,Mathematical Proof,-
+c156,Springer Link,2012,Discarded: Secondary Exclusion Criteria 1,,,
+c157,Springer Link,2012,Discarded: Secondary Exclusion Criteria 1,,,
+c158,Springer Link,2012,Discarded: Secondary Exclusion Criteria 1,,,
+c159,Springer Link,2012,Discarded: Secondary Exclusion Criteria 1,,,
+c160,Springer Link,2012,Discarded: Secondary Exclusion Criteria 1,,,
+c161,Springer Link,2012,Discarded: Secondary Exclusion Criteria 1,,,
+c162,Springer Link,2012,Discarded: Secondary Exclusion Criteria 1,,,
+c163,Springer Link,2012,Discarded: Secondary Exclusion Criteria 1,,,
+c164,Springer Link,2012,Discarded: Secondary Exclusion Criteria 2,,,
+c165,Springer Link,2012,Discarded: Primary Exclusion Criteria 1,,,
+c166,Springer Link,2012,Discarded: Secondary Exclusion Criteria 1,,,
+c167,Springer Link,2013,Accepted,ID-Based,Sanitizable Signature,Gap Diffie-Hellman
+c168,Springer Link,2013,Accepted,Traditional Scheme,Mathematical Proof,-
+c169,Springer Link,2013,Accepted,Traditional Scheme,Mathematical Proof,-
+c170,Springer Link,2013,Accepted,Traditional Scheme,Mathematical Proof,-
+c171,Springer Link,2013,Accepted,Traditional Scheme,ABO-TDF,-
+c172,Springer Link,2013,Accepted,Traditional Scheme,Mathematical Proof,-
+c173,Springer Link,2013,Accepted,-,Mathematical Proof,,-
+c174,Springer Link,2013,Accepted,Tag-Based,Sanitizable Signature,-
+c175,Springer Link,2013,Discarded: Secondary Exclusion Criteria 1,,,
+c176,Springer Link,2013,Accepted,-,Authentication,-
+c177,Springer Link,2013,Discarded: Secondary Exclusion Criteria 1,,,
+c178,Springer Link,2013,Accepted,-,Mathematical Proof,,-
+c179,Springer Link,2013,Discarded: Secondary Exclusion Criteria 1,,,
+c180,Springer Link,2013,Accepted,Traditional Scheme,Authentication,Discrete Logarithm
+c181,Springer Link,2013,Accepted,ID-Based,Mathematical Proof,-
+c182,Springer Link,2013,Discarded: Secondary Exclusion Criteria 4,,,
+c183,Springer Link,2013,Discarded: Primary Exclusion Criteria 1,,,
+c184,Springer Link,2013,Accepted,Traditional Scheme,Online/Offline Signature,Discrete Logarithm
+c185,Springer Link,2013,Accepted,Traditional Scheme,Chameleon Signature,Generic Group
+c186,Springer Link,2013,Accepted,Traditional Scheme,Online/Offline Signature,Discrete Logarithm
+c187,Springer Link,2014,Accepted,Traditional Scheme,Mathematical Proof,-
+c188,Springer Link,2014,Accepted,Traditional Scheme,Mathematical Proof,Discrete Logarithm
+c189,Springer Link,2014,Accepted,Traditional Scheme,Bivariate Polynomials Modulo Composites
+c190,Springer Link,2014,Accepted,Traditional Scheme,Authentication,Geneic Group
+c191,Springer Link,2014,Accepted,Traditional Scheme,ABO-TDF,-
+c192,Springer Link,2014,Accepted,Traditional Scheme,Mathematical Proof,-
+c193,Springer Link,2014,Accepted,Traditional Scheme,Online/Offline Signature,-
+c194,Springer Link,2014,Accepted,-,Mathematical Proof,,-
+c195,Springer Link,2014,Discarded: Secondary Exclusion Criteria 1,,,
+c196,Springer Link,2014,Discarded: Secondary Exclusion Criteria 1,,,
+c197,Springer Link,2014,Discarded: Secondary Exclusion Criteria 1,,,
+c198,Springer Link,2014,Accepted,Traditional Scheme,Mathematical Proof,Lattice Based
+c199,Springer Link,2014,Discarded: Secondary Exclusion Criteria 1,,,
+c200,Springer Link,2014,Discarded: Secondary Exclusion Criteria 1,,,
+c201,Springer Link,2014,Discarded: Secondary Exclusion Criteria 1,,,
+c202,Springer Link,2014,Discarded: Secondary Exclusion Criteria 1,,,
+c203,Springer Link,2014,Discarded: Secondary Exclusion Criteria 1,,,
+c204,Springer Link,2014,Discarded: Secondary Exclusion Criteria 1,,,
+c205,Springer Link,2014,Discarded: Secondary Exclusion Criteria 1,,,
+c206,Springer Link,2014,Discarded: Secondary Exclusion Criteria 1,,,
+c207,Springer Link,2014,Discarded: Secondary Exclusion Criteria 1,,,
+c208,Springer Link,2014,Discarded: Secondary Exclusion Criteria 1,,,
+c209,Springer Link,2014,Accepted,-,Mathematical Proof,-
+c210,Springer Link,2014,Discarded: Secondary Exclusion Criteria 1,,,
+c211,Springer Link,2014,Accepted,Traditional Scheme,-,VSH
+c212,Springer Link,2015,Accepted,Traditional Scheme,Signature Scheme,,-
+c213,Springer Link,2015,Accepted,Traditional Scheme,Oblivious Transfer,Discrete Logarithm and Lattice
+c214,Springer Link,2015,Accepted,Traditional Scheme,Mathematical Proof,XDH Assumption
+c215,Springer Link,2015,Accepted,Traditional Scheme,Mathematical Proof,Diffie-Hellman
+c216,Springer Link,2015,Accepted,Traditional Scheme,Authentication,-
+c217,Springer Link,2015,Accepted,Traditional Scheme,Mathematical Proof,-
+c218,Springer Link,2015,Accepted,-,Mathematical proof,,-
+c219,Springer Link,2015,Discarded: Secondary Exclusion Criteria 1,,,
+c220,Springer Link,2015,Accepted,Traditional Scheme,Signature Scheme,-
+c221,Springer Link,2015,Accepted,Traditional Scheme,ABO-TDF,-
+c222,Springer Link,2015,Discarded: Secondary Exclusion Criteria 1,,,
+c223,Springer Link,2015,Accepted,-,Mathematical Proof,,-
+c224,Springer Link,2015,Discarded: Secondary Exclusion Criteria 1,,,
+c225,Springer Link,2015,Discarded: Secondary Exclusion Criteria 1,,,
+c226,Springer Link,2015,Discarded: Secondary Exclusion Criteria 1,,,
+c227,Springer Link,2015,Discarded: Secondary Exclusion Criteria 1,,,
+c228,Springer Link,2015,Accepted,-,Mathematical Proof,,-
+c229,Springer Link,2015,Discarded: Secondary Exclusion Criteria 6,,,
+c230,Springer Link,2015,Discarded: Secondary Exclusion Criteria 1,,,
+c231,Springer Link,2015,Discarded: Secondary Exclusion Criteria 6,,,
+c232,Springer Link,2015,Discarded: Secondary Exclusion Criteria 6,,,
+c233,Springer Link,2015,Accepted,Traditional Scheme,Mathematical proof,RSA
+c234,Springer Link,2015,Discarded: Primary Exclusion Criteria 1,,,
+c235,Springer Link,2016,Accepted,Traditional Scheme,Chameleon Signature,Homomorpṕhic Hash Function
+c236,Springer Link,2016,Accepted,Traditional Scheme,Mathematical proof,-
+c237,Springer Link,2016,Accepted,-,Authentication,,-
+c238,Springer Link,2016,Accepted,Traditional Scheme,Mathematical Proof,Lattice Based
+c239,Springer Link,2016,Accepted,Traditional Scheme,Sanitizable Signature,-
+c240,Springer Link,2016,Accepted,Traditional Scheme,Trapdoor Commitment,-
+c241,Springer Link,2016,Accepted,-,Mathematical Proof,,-
+c242,Springer Link,2016,Accepted,Traditional Scheme,Oblivious Transfer,Discrete Logarithm
+c243,Springer Link,2016,Discarded: Secondary Exclusion Criteria 1,,,
+c244,Springer Link,2016,Discarded: Secondary Exclusion Criteria 1,,,
+c245,Springer Link,2016,Discarded: Secondary Exclusion Criteria 6,,,
+c246,Springer Link,2016,Discarded: Primary Exclusion Criteria 4,,,
+c247,Springer Link,2016,Discarded: Secondary Exclusion Criteria 1,,,
+c248,Springer Link,2016,Discarded: Secondary Exclusion Criteria 1,,,
+c249,Springer Link,2016,Discarded: Secondary Exclusion Criteria 1,,,
+c250,Springer Link,2016,Discarded: Secondary Exclusion Criteria 1,,,
+c251,Springer Link,2016,Accepted,Traditional Scheme,Signature Scheme,Lattice Based
+c252,Springer Link,2016,Accepted,-,Mathematical Proof,-
+c253,Springer Link,2016,Discarded: Secondary Exclusion Criteria 1,,,
+c254,Springer Link,2016,Accepted,Traditional Scheme,Chameleon Signature,Discrete Logarithm
+c255,Springer Link,2016,Discarded: Secondary Exclusion Criteria 1,,,
+c256,Springer Link,2016,Discarded: Primary Exclusion Criteria 1,,,
+c257,Springer Link,2016,Discarded: Secondary Exclusion Criteria 1,,,
+c258,Springer Link,2016,Discarded: Secondary Exclusion Criteria 6,,,
+c259,Springer Link,2016,Discarded: Secondary Exclusion Criteria 1,,,
+c260,Springer Link,2016,Discarded: Primary Exclusion Criteria 3,,,
+c261,Springer Link,2017,Accepted,Ephemeral Trapdoor Scheme,Sanitizable Signature,Black Box
+c262,Springer Link,2017,Accepted,Traditional Scheme,Mathematical Proof,-
+c263,Springer Link,2017,Discarded: Secondary Exclusion Criteria 1,,,
+c264,Springer Link,2017,Accepted,Traditional Scheme,Mathematical Proof,
+c265,Springer Link,2017,Accepted,Traditional Scheme,Chameleon Encryption,Diffie Hellman
+c266,Springer Link,2017,Accepted,Traditional Scheme,Key Exchange,-
+c267,Springer Link,2017,Accepted,Traditional Scheme,Mathematical Proof,-
+c268,Springer Link,2017,Accepted,Traditional Scheme,Mathematical Proof,-
+c269,Springer Link,2017,Accepted,Traditional Scheme,Signature Scheme,-
+c270,Springer Link,2017,Accepted,Traditional Scheme,Chameleon Encryption,-
+c271,Springer Link,2017,Discarded: Secondary Exclusion Criteria 1,,,
+c272,Springer Link,2017,Discarded: Secondary Exclusion Criteria 1,,,
+c273,Springer Link,2017,Discarded: Secondary Exclusion Criteria 1,,,
+c274,Springer Link,2017,Accepted,-,Mathematical Proof,,-
+c275,Springer Link,2017,Discarded: Primary Exclusion Criteria 3,,,
+c276,Springer Link,2017,Discarded: Secondary Exclusion Criteria 1,,,
+c277,Springer Link,2017,Accepted,Traditional Scheme,Signature Scheme,Lattice Based
+c278,Springer Link,2017,Discarded: Secondary Exclusion Criteria 1,,,
+c279,Springer Link,2017,Accepted,-,Mathematical Proof,,-
+c280,Springer Link,2017,Discarded: Secondary Exclusion Criteria 1,,,
+c281,Springer Link,2017,Discarded: Secondary Exclusion Criteria 1,,,
+c282,Springer Link,2017,Discarded: Secondary Exclusion Criteria 1,,,
+c283,Springer Link,2017,Accepted,-,Mathematical Proof,-
+c284,Springer Link,2017,Discarded: Secondary Exclusion Criteria 6,,,
+c285,Springer Link,2017,Discarded: Secondary Exclusion Criteria 2,,,
+c286,Springer Link,2017,Discarded: Secondary Exclusion Criteria 1,,,
+c287,Springer Link,2017,Discarded: Secondary Exclusion Criteria 1,,,
+c288,Springer Link,2017,Discarded: Primary Exclusion Criteria 1,,,
+c289,Springer Link,2017,Discarded: Secondary Exclusion Criteria 1,,,
+c290,Springer Link,2017,Accepted,Traditional Scheme,Mathematical Proof,-
+c291,Springer Link,2017,Discarded: Secondary Exclusion Criteria 1,,,
+c292,Springer Link,2017,Discarded: Secondary Exclusion Criteria 1,,,
+c293,Springer Link,2017,Accepted,-,Mathematical Proof,-
+c294,Springer Link,2017,Discarded: Secondary Exclusion Criteria 1,,,
+c295,Springer Link,2017,Discarded: Secondary Exclusion Criteria 6,,,
+c296,Springer Link,2017,Discarded: Secondary Exclusion Criteria 1,,,
+c297,Springer Link,2017,Discarded: Secondary Exclusion Criteria 6,,,
+c298,Springer Link,2017,Discarded: Secondary Exclusion Criteria 1,,,
+c299,Springer Link,2018,Accepted,Dual Long-Term Trapdoor Scheme,Sanitizable Signature,RSA and Black Box
+c300,Springer Link,2018,Discarded: Primary Exclusion Criteria 3,,,
+c301,Springer Link,2018,Accepted,Traditional Scheme,Online/Offline Signature,Lattice Based
+c302,Springer Link,2018,Accepted,Traditional Scheme,Online/Offline Signature,-
+c303,Springer Link,2018,Accepted,Traditional Scheme,Authentication,-
+c304,Springer Link,2018,Accepted,Traditional Scheme,Mathematical proof,Discrete Logarithm
+c305,Springer Link,2018,Accepted,Traditional Scheme,Mathematical Proof,-
+c306,Springer Link,2018,Discarded: Secondary Exclusion Criteria 1,,,
+c307,Springer Link,2018,Accepted,-,Authentication,-
+c308,Springer Link,2018,Discarded: Primary Exclusion Criteria 4,,,
+c309,Springer Link,2018,Discarded: Secondary Exclusion Criteria 1,,,
+c310,Springer Link,2018,Discarded: Secondary Exclusion Criteria 1,,,
+c311,Springer Link,2018,Accepted,Traditional Scheme,Mathematical Proof,-
+c312,Springer Link,2018,Discarded: Primary Exclusion Criteria 3,,,
+c313,Springer Link,2018,Discarded: Secondary Exclusion Criteria 1,,,
+c314,Springer Link,2018,Discarded: Secondary Exclusion Criteria 1,,,
+c315,Springer Link,2018,Discarded: Secondary Exclusion Criteria 1,,,
+c316,Springer Link,2018,Discarded: Primary Exclusion Criteria 3,,,
+c317,Springer Link,2018,Accepted,-,Mathematical proof,,-
+c318,Springer Link,2018,Discarded: Secondary Exclusion Criteria 1,,,
+c319,Springer Link,2018,Accepted,-,Mathematical Proof,-
+c320,Springer Link,2018,Discarded: Secondary Exclusion Criteria 1,,,
+c321,Springer Link,2018,Discarded: Secondary Exclusion Criteria 1,,,
+c322,Springer Link,2018,Discarded: Secondary Exclusion Criteria 1,,,
+c323,Springer Link,2018,Accepted,-,Mathematical proof,-
+c324,Springer Link,2018,Discarded: Secondary Exclusion Criteria 1,,,
+c325,Springer Link,2018,Discarded: Secondary Exclusion Criteria 1,,,
+c326,Springer Link,2018,Discarded: Secondary Exclusion Criteria 1,,,
+c327,Springer Link,2018,Accepted,Traditional Scheme,Mathematical Proof,-
+c328,Springer Link,2018,Discarded: Secondary Exclusion Criteria 1,,,
+c329,Springer Link,2018,Discarded: Secondary Exclusion Criteria 1,,,
+c330,Springer Link,2018,Discarded: Secondary Exclusion Criteria 1,,,
+c331,Springer Link,2018,Discarded: Secondary Exclusion Criteria 1,,,
+c332,Springer Link,2018,Discarded: Secondary Exclusion Criteria 1,,,
+c333,Springer Link,2019,Accepted,Traditional Scheme,Authentication,-
+c334,Springer Link,2019,Discarded: Secondary Exclusion Criteria 6,,,
+c335,Springer Link,2019,Ok,Traditional Scheme,Lossy Algebric Filters,-
+c336,Springer Link,2019,Accepted,Traditional Scheme,Authentication,-
+c337,Springer Link,2019,Accepted,Traditional Scheme,Chameleon Encryption,Diffie-Hellman
+c338,Springer Link,2019,Accepted,Traditional Scheme,Signature Scheme,Lattice Based
+c339,Springer Link,2019,Discarded: Secondary Exclusion Criteria 1,,,
+c340,Springer Link,2019,Discarded: Secondary Exclusion Criteria 1,,,
+c341,Springer Link,2019,Accepted,Traditional Scheme,Signature Scheme,-
+c342,Springer Link,2019,Accepted,Traditional Scheme,Mathematical Proof,-
+c343,Springer Link,2019,Discarded: Secondary Exclusion Criteria 1,,,
+c344,Springer Link,2019,Accepted,Traditional Scheme,-,Trapdoor Function
+c345,Springer Link,2019,Accepted,Traditional Scheme,Signature Scheme,-
+c346,Springer Link,2019,Discarded: Secondary Exclusion Criteria 1,,,
+c347,Springer Link,2019,Accepted,Traditional Scheme,Mathematical Proof,-
+c348,Springer Link,2019,Discarded: Secondary Exclusion Criteria 1,,,
+c349,Springer Link,2019,Discarded: Secondary Exclusion Criteria 1,,,
+c350,Springer Link,2019,Discarded: Secondary Exclusion Criteria 1,,,
+c351,Springer Link,2019,Discarded: Secondary Exclusion Criteria 1,,,
+c352,Springer Link,2019,Discarded: Secondary Exclusion Criteria 1,,,
+c353,Springer Link,2019,Discarded: Secondary Exclusion Criteria 1,,,
+c354,Springer Link,2019,Discarded: Secondary Exclusion Criteria 1,,,
+c355,Springer Link,2019,Discarded: Secondary Exclusion Criteria 1,,,
+c356,Springer Link,2019,Discarded: Secondary Exclusion Criteria 1,,,
+c357,Springer Link,2019,Discarded: Secondary Exclusion Criteria 1,,,
+c358,Springer Link,2019,Discarded: Secondary Exclusion Criteria 1,,,
+c359,Springer Link,2019,Accepted,Traditional Scheme,Signature Scheme, RSA and Diffie-Hellman
+c360,Springer Link,2019,Discarded: Secondary Exclusion Criteria 1,,,
+c361,Springer Link,2019,Discarded: Secondary Exclusion Criteria 1,,,
+c362,Springer Link,2019,Accepted,-,Mathematical Proof,-
+c363,Springer Link,2019,Discarded: Secondary Exclusion Criteria 1,,,
+c364,Springer Link,2019,Accepted,Traditional Scheme,Authentication,Discrete Logarithm
+c365,Springer Link,2019,Accepted,-,Mathematical Proof,,-
+c366,Springer Link,2019,Discarded: Primary Exclusion Criteria 1,,,
+c367,Springer Link,2019,Discarded: Secondary Exclusion Criteria 1,,,
+c368,Springer Link,2019,Discarded: Secondary Exclusion Criteria 1,,,
+c369,Springer Link,2019,Accepted,-,Mathematical proof,-
+c370,Springer Link,2019,Discarded: Secondary Exclusion Criteria 1,,,
+c371,Springer Link,2020,Accepted,Secret-Coin Scheme,Redactable Blockchain,Black Box
+c372,Springer Link,2020,Accepted,Secret-Coin Scheme,NIZK
+c373,Springer Link,2020,Accepted,Traditional Scheme,Mathematical Proof,Discrete Logarithm and  RSA and Factoring
+c374,Springer Link,2020,Accepted,Traditional Scheme,Redactable Blockchain,Discrete Logarithm
+c375,Springer Link,2020,Discarded: Primary Exclusion Criteria 4,,,
+c376,Springer Link,2020,Accepted,Secret-Coin,Redactable Blockchain,Discrete Logarithm
+c377,Springer Link,Accepted,-,Sanitizable Signatures,-
+c378,Springer Link,2020,Discarded: Secondary Exclusion Criteria 6,,,
+c379,Springer Link,2020,Accepted,-,Sanitizable Signature,-
+c380,Springer Link,2020,Accepted,Traditional Scheme,Authentication,-
+c381,Springer Link,2020,Accepted,Traditional Scheme,Authentication,-
+c382,Springer Link,2020,Discarded: Secondary Exclusion Criteria 1,,,
+c383,Springer Link,2020,Discarded: Secondary Exclusion Criteria 5,,,
+c384,Springer Link,2020,Discarded: Secondary Exclusion Criteria 6,,,
+c385,Springer Link,2020,Discarded: Secondary Exclusion Criteria 6,,,
+c386,Springer Link,2020,Discarded: Secondary Exclusion Criteria 1,,,
+c387,Springer Link,2020,Discarded: Secondary Exclusion Criteria 1,,,
+c388,Springer Link,2020,Discarded: Primary Exclusion Criteria 4,,,
+c389,Springer Link,2020,Accepted,Traditional Scheme,Mathematical Proof,Lattice Based
+c390,Springer Link,2020,Accepted,Traditional Scheme,ABO-TDF,-
+c391,Springer Link,2020,Discarded: Secondary Exclusion Criteria 1,,,
+c392,Springer Link,2020,Discarded: Secondary Exclusion Criteria 1,,,
+c393,Springer Link,2020,Discarded: Secondary Exclusion Criteria 1,,,
+c394,Springer Link,2020,Discarded: Secondary Exclusion Criteria 1,,,
+c395,Springer Link,2020,Discarded: Secondary Exclusion Criteria 1,,,
+c396,Springer Link,2020,Discarded: Secondary Exclusion Criteria 1,,,
+c397,Springer Link,2020,Discarded: Secondary Exclusion Criteria 1,,,
+c398,Springer Link,2020,Accepted,-,Mathematical Proof,,-
+c399,Springer Link,2020,Accepted,Traditional Scheme,Mathematical Proof,Lattice Based
+c400,Springer Link,2020,Discarded: Secondary Exclusion Criteria 6,,,
+c401,Springer Link,2020,Discarded: Secondary Exclusion Criteria 1,,,
+c402,Springer Link,2020,Discarded: Secondary Exclusion Criteria 1,,,
+c403,Springer Link,2020,Discarded: Secondary Exclusion Criteria 1,,,
+c404,Springer Link,2020,Discarded: Secondary Exclusion Criteria 6,,,
+c405,Springer Link,2020,Discarded: Secondary Exclusion Criteria 1,,,
+c406,Springer Link,2020,Discarded: Secondary Exclusion Criteria 1,,,
+c407,Springer Link,2020,Discarded: Secondary Exclusion Criteria 1,,,
+c408,Springer Link,2020,Accepted,Traditional Scheme,Authentication,-
+c409,Springer Link,2020,Discarded: Primary Exclusion Criteria 4,,,
+c410,Springer Link,2020,Accepted,Traditional Scheme,Mathematical proof,-
+c411,Springer Link,2020,Discarded: Secondary Exclusion Criteria 1,,,
+c412,Springer Link,2020,Discarded: Secondary Exclusion Criteria 1,,,
+c413,Springer Link,2020,Discarded: Secondary Exclusion Criteria 1,,,
+c414,Springer Link,2020,Discarded: Secondary Exclusion Criteria 1,,,
+c415,Springer Link,2020,Discarded: Secondary Exclusion Criteria 1,,,
+c416,Springer Link,2020,Discarded: Secondary Exclusion Criteria 1,,,
+c417,Springer Link,2020,Accepted,Traditional Scheme,Redactable Blockchain,-
+c418,Springer Link,2020,Discarded: Primary Exclusion Criteria 3,,,
+c419,Springer Link,2020,Discarded: Secondary Exclusion Criteria 1,,,
+c420,Springer Link,2020,Accepted,Traditional Scheme,Mathematical proof,-
+c421,Springer Link,2021,Accepted,Revocable Policy-based,Redactable Blockchain and Sanitizable Signature, Decisional Linear Assumption
+c422,Springer Link,2021,Accepted,Secret Coin,Redactable Blockchain,Black Box
+c423,Springer Link,2021,Accepted,Policy-Based,Redactable Blockchain,Black Box
+c424,Springer Link,2021,Discarded: Primary Exclusion Criteria 4,,,
+c425,Springer Link,2021,Accepted,-,Mathematical Proof,-
+c426,Springer Link,2021,Accepted,Traditional Scheme,Authentication,Discrete Logarithm
+c427,Springer Link,2021,Discarded: Secondary Exclusion Criteria 1,,,
+c428,Springer Link,2021,Discarded: Secondary Exclusion Criteria 5,,,
+c429,Springer Link,2021,Discarded: Secondary Exclusion Criteria 6,,,
+c430,Springer Link,2021,Discarded: Secondary Exclusion Criteria 6,,,
+c431,Springer Link,2021,Discarded: Secondary Exclusion Criteria 1,,,
+c432,Springer Link,2021,Discarded: Secondary Exclusion Criteria 1,,,
+c433,Springer Link,2021,Discarded: Secondary Exclusion Criteria 1,,,
+c434,Springer Link,2021,Discarded: Secondary Exclusion Criteria 1,,,
+c435,Springer Link,2021,Discarded: Secondary Exclusion Criteria 1,,,
+c436,Springer Link,2021,Discarded: Secondary Exclusion Criteria 1,,,
+c437,Springer Link,2021,Discarded: Secondary Exclusion Criteria 6,,,
+c448,Springer Link,2021,Discarded: Secondary Exclusion Criteria 5,,,
+c449,Springer Link,2021,Discarded: Secondary Exclusion Criteria 1,,,
+c440,Springer Link,2021,Discarded: Secondary Exclusion Criteria 1,,,
+c441,Springer Link,2021,Discarded: Secondary Exclusion Criteria 1,,,
+c442,Springer Link,2021,Discarded: Secondary Exclusion Criteria 1,,,
+c443,Springer Link,2021,Discarded: Primary Exclusion Criteria 3,,,
+c444,Springer Link,2021,Discarded: Secondary Exclusion Criteria 6,,,
+c445,Springer Link,2021,Discarded: Secondary Exclusion Criteria 6,,,
+c446,Springer Link,2021,Discarded: Primary Exclusion Criteria 3,,,
+c447,Springer Link,2021,Discarded: Secondary Exclusion Criteria 6,,,
+c448,Springer Link,2021,Discarded: Secondary Exclusion Criteria 6,,,
+c449,Springer Link,2021,Discarded: Secondary Exclusion Criteria 6,,,
+c450,Springer Link,2021,Discarded: Secondary Exclusion Criteria 6,,,
+c451,Springer Link,2021,Discarded: Secondary Exclusion Criteria 1,,,
+c452,Springer Link,2021,Discarded: Secondary Exclusion Criteria 6,,,
+c453,Springer Link,2021,Accepted,Traditional Scheme,Redactable Blockchain,-
+c454,Springer Link,2021,Discarded: Primary Exclusion Criteria 3,,,
+c455,Springer Link,2021,Accepted,Traditional Scheme,Chameleon Signature,-
+c456,Springer Link,2021,Accepted,Traditional Scheme,ABO-TDF,-
+c457,Springer Link,2021,Accepted,Traditional Scheme,Mathematical Proof,-
+c458,Springer Link,2021,Discarded: Primary Exclusion Criteria 3,,,
+c459,Springer Link,2021,Discarded: Secondary Exclusion Criteria 1,,,
+c460,Springer Link,2021,Discarded: Secondary Exclusion Criteria 1,,,
+c461,Springer Link,2021,Accepted,Traditional Scheme,Sanitizable Signature,-
+c462,Springer Link,2021,Discarded: Secondary Exclusion Criteria 1,,,
+c463,Springer Link,2021,Discarded: Secondary Exclusion Criteria 1,,,
+c464,Springer Link,2021,Discarded: Secondary Exclusion Criteria 1,,,
+c465,Springer Link,2021,Discarded: Secondary Exclusion Criteria 1,,,
+c466,Springer Link,2021,Discarded: Secondary Exclusion Criteria 1,,,
+c467,Springer Link,2021,Discarded: Secondary Exclusion Criteria 1,,,
+d1,Science Direct,2007,Discarded: Secondary Exclusion Criteria 1,,,
+d2,Science Direct,2008,Discarded: Secondary Exclusion Criteria 2,,,
+d3,Science Direct,2008,Discarded: Secondary Exclusion Criteria 1,,,
+d4,Science Direct,2008,Discarded: Secondary Exclusion Criteria 1,,,
+d5,Science Direct,2008,Accepted,Traditional Scheme,Online/Offline Signature,Discrete Logarithm
+d6,Science Direct,2009,Discarded: Secondary Exclusion Criteria 3,,,
+d7,Science Direct,2009,Discarded: Secondary Exclusion Criteria 2,,,
+d8,Science Direct,2008,Discarded: Secondary Exclusion Criteria 1,,,
+d9,Science Direct,2009,Accepted,Traditional Scheme,Authentication,-
+d10,Science Direct,2009,Accepted,Traditional Scheme,Online/Offline Signature,Discrete Logarithm
+d11,Science Direct,2010,Discarded: Secondary Exclusion Criteria 1,,,
+d12,Science Direct,2011,Accepted,Traditional Scheme,Signature Scheme,Discrete Logarithm
+d13,Science Direct,2011,Accepted,-,Online/Offline Signature,-
+d14,Science Direct,2011,Accepted,Traditional Scheme,Online/Offline Signature,Discrete Logarithm
+d15,Science Direct,2011,Discarded: Secondary Exclusion Criteria 1,,,
+d16,Science Direct,2011,Accepted,ID-Secret Coin,Chameleon Signature,Discrete Logarithm
+d17,Science Direct,2011,Accepted,Traditional Scheme,Mathematical proof,-
+d18,Science Direct,2011,Discarded: Secondary Exclusion Criteria 6,,,
+d19,Science Direct,2011,Accepted,Traditional Scheme,Mathematical Proof,Discrete Logarithm
+d20,Science Direct,2012,Discarded: Secondary Exclusion Criteria 1,,,
+d21,Science Direct,2012,Accepted,-,Mathematical Proof,-
+d22,Science Direct,2012,Accepted,Tag-Based,Discrete Logarithm
+d23,Science Direct,2013,Accepted,Traditional Scheme,Online/Offline Signature,Discrete Logarithm
+d24,Science Direct,2013,Accepted,-,Mathematical proof,-
+d25,Science Direct,2013,Discarded: Secondary Exclusion Criteria 1,,,
+d26,Science Direct,2014,Discarded: Secondary Exclusion Criteria 1,,,
+d27,Science Direct,2014,Discarded: Secondary Exclusion Criteria 1,,,
+d28,Science Direct,2014,Accepted,ID-Secret-Coin Scheme,Chameleon Signature,Discrete Logarithm
+d29,Science Direct,2015,Discarded: Primary Exclusion Criteria 3,,,
+d30,Science Direct,2014,Accepted,Traditional Scheme,Authentication,Discrete Logarithm
+d31,Science Direct,2015,Discarded: Primary Exclusion Criteria 4,,,
+d32,Science Direct,2016,Discarded: Secondary Exclusion Criteria 6,,,
+d33,Science Direct,2016,Accepted,-,Authentication,-
+d34,Science Direct,2017,Accepted,Traditional Scheme,Chameleon Signature,Discrete Logarithm
+d35,Science Direct,2018,Discarded: Secondary Exclusion Criteria 1,,,
+d36,Science Direct,2017,Discarded: Primary Exclusion Criteria 3,,,
+d37,Science Direct,2017,Accepted,Traditional Scheme,Chameleon Signature,Discrete Logarithm
+d38,Science Direct,2017,Accepted,-,Authentication,-
+d39,Science Direct,2017,Discarded: Secondary Exclusion Criteria 1,,,
+d40,Science Direct,2017,Discarded: Primary Exclusion Criteria 3,,,
+d41,Science Direct,2018,Accepted,Traditional Scheme,Online/Offline Signature,-
+d42,Science Direct,2017,Discarded: Secondary Exclusion Criteria 1,,,
+d43,Science Direct,2017,Accepted,-,Authentication,-
+d44,Science Direct,2018,Discarded: Primary Exclusion Criteria 3,,,
+d45,Science Direct,2018,Discarded: Secondary Exclusion Criteria 1,,,
+d46,Science Direct,2018,Discarded: Secondary Exclusion Criteria 1,,,
+d47,Science Direct,2018,Discarded: Secondary Exclusion Criteria 1,,,
+d48,Science Direct,2018,Accepted,-,Mathematical Proof,-
+d49,Science Direct,2018,Discarded: Secondary Exclusion Criteria 1,,,
+d50,Science Direct,2018,Discarded: Primary Exclusion Criteria 3,,,
+d51,Science Direct,2018,Discarded: Secondary Exclusion Criteria 1,,,
+d52,Science Direct,2019,Accepted,Traditional Scheme,Signature Scheme,-
+d53,Science Direct,2019,Accepted,Traditional Scheme,Signature Scheme,Lattice Based
+d54,Science Direct,2019,Discarded: Primary Exclusion Criteria 3,,,
+d55,Science Direct,2019,Discarded: Secondary Exclusion Criteria 1,,,
+d56,Science Direct,2019,Discarded: Primary Exclusion Criteria 3,,,
+d57,Science Direct,2019,Accepted,-,Mathematical Proof,-
+d58,Science Direct,2019,Discarded: Primary Exclusion Criteria 3,,,
+d59,Science Direct,2019,Discarded: Secondary Exclusion Criteria 1,,,
+d60,Science Direct,2019,Accepted,Secret-Coin Scheme,-,Discrete Logarithm
+d61,Science Direct,2019,Accepted,Traditional Scheme,Mathematical Proof,-
+d62,Science Direct,2019,Accepted,-,Authentication,-
+d63,Science Direct,2020,Accepted,Traditional Scheme,Online/Offline Signature,-
+d64,Science Direct,2020,Discarded: Primary Exclusion Criteria 4,,,
+d65,Science Direct,2020,Accepted,-,Mathematical Proof,-
+d66,Science Direct,2020,Discarded: Secondary Exclusion Criteria 1,,,
+d67,Science Direct,2020,Discarded: Secondary Exclusion Criteria 1,,,
+d68,Science Direct,2020,Discarded: Secondary Exclusion Criteria 1,,,
+d69,Science Direct,2020,Discarded: Secondary Exclusion Criteria 1,,,
+d70,Science Direct,2020,Discarded: Primary Exclusion Criteria 3,,,
+d71,Science Direct,2020,Discarded: Primary Exclusion Criteria 3,,,
+d72,Science Direct,2020,Accepted,ID-Based-Verified,Redactable Blockchain,Discrete Logarithm
+d73,Science Direct,2020,Discarded: Secondary Exclusion Criteria 1,,,
+d74,Science Direct,2020,Discarded: Secondary Exclusion Criteria 5,,,
+d75,Science Direct,2020,Discarded: Secondary Exclusion Criteria 1,,,
+d76,Science Direct,2020,Accepted,Traditional Scheme,Redactable Blockchain,Lattice Based
+d77,Science Direct,2020,Discarded: Secondary Exclusion Criteria 4,,,
+d78,Science Direct,2020,Discarded: Secondary Exclusion Criteria 1,,,
+d79,Science Direct,2021,Discarded: Primary Exclusion Criteria 3,,,
+d80,Science Direct,2021,Discarded: Primary Exclusion Criteria 3,,,
+d81,Science Direct,2021,Discarded: Secondary Exclusion Criteria 1,,,
+d82,Science Direct,2021,Discarded: Primary Exclusion Criteria 3,,,
+d83,Science Direct,2021,Discarded: Primary Exclusion Criteria 3,,,
+d84,Science Direct,2021,Accepted,Traditional Scheme,Redactable Blockchain,-
+d85,Science Direct,2021,Discarded: Primary Exclusion Criteria 3,,,
+d86,Science Direct,2021,Accepted,Secret-Coin Scheme,Sanitizable Signature,-
+d87,Science Direct,2021,Accepted,Traditional Scheme,Chameleon Signature,-
+d88,Science Direct,2021,Discarded: Primary Exclusion Criteria 3,,,
+d89,Science Direct,2021,Discarded: Secondary Exclusion Criteria 1,,,
+d90,Science Direct,2021,Discarded: Secondary Exclusion Criteria 1,,,
+d91,Science Direct,2021,Discarded: Secondary Exclusion Criteria 1,,,
+d92,Science Direct,2021,Discarded: Secondary Exclusion Criteria 1,,,
+d93,Science Direct,2021,Discarded: Secondary Exclusion Criteria 1,,,
+d94,Science Direct,2021,Discarded: Secondary Exclusion Criteria 1,,,
+d95,Science Direct,2021,Accepted,Traditional Scheme,Signature Scheme,Lattice Based
+d96,Science Direct,2021,Accepted,Traditional Scheme,Chameleon Signature,Discrete Logarithm
+d97,Science Direct,2021,Discarded: Primary Exclusion Criteria 3,,,
+d98,Science Direct,2021,Discarded: Secondary Exclusion Criteria 1,,,
+d99,Science Direct,2021,Accepted,Traditional Scheme,Signature Scheme,Discrete Logarithm
+
+
+e1,Cryptology Eprint,1021,Discarded: Primary Exclusion Criteria 1,,,
+e2,Cryptology Eprint,2021,Discarded: Primary Exclusion Criteria 1,,,
+e3,Cryptology Eprint,2020,Discarded: Primary Exclusion Criteria 1,,,
+e4,Cryptology Eprint,2020,Discarded: Primary Exclusion Criteria 1,,,
+e5,Cryptology Eprint,2020,Discarded: Primary Exclusion Criteria 1,,,
+e6,Cryptology Eprint,2020,Discarded: Primary Exclusion Criteria 1,,,
+e7,Cryptology Eprint,2020,Accepted,Traditional Scheme,Authentication,-
+e8,Cryptology Eprint,2019,Discarded: Primary Exclusion Criteria 1,,,
+e9,Cryptology Eprint,2019,Discarded: Primary Exclusion Criteria 1,,,
+e10,Cryptology Eprint,2019,Discarded: Primary Exclusion Criteria 1,,,
+e11,Cryptology Eprint,2019,Discarded: Primary Exclusion Criteria 1,,,
+e12,Cryptology Eprint,2019,Discarded: Primary Exclusion Criteria 1,,,
+e13,Cryptology Eprint,2019,Accepted,Secret-Coin and Ephemeral Trapdoor and Policy-Based,Black Box
+e14,Cryptology Eprint,2019,Discarded: Primary Exclusion Criteria 1,,,
+e15,Cryptology Eprint,2018,Discarded: Primary Exclusion Criteria 1,,,
+e16,Cryptology Eprint,2017,Discarded: Primary Exclusion Criteria 1,,,
+e17,Cryptology Eprint,2017,Accepted,Ephemeral Trapdoor,Sanitizable Signatures,Black Box
+e18,Cryptology Eprint,2016,Discarded: Primary Exclusion Criteria 1,,,
+e19,Cryptology Eprint,2016,Discarded: Primary Exclusion Criteria 1,,,
+e20,Cryptology Eprint,2015,Discarded: Primary Exclusion Criteria 1,,,
+e21,Cryptology Eprint,2015,Discarded: Primary Exclusion Criteria 1,,,
+e22,Cryptology Eprint,2014,Discarded: Primary Exclusion Criteria 1,,,
+e23,Cryptology Eprint,2014,Discarded: Primary Exclusion Criteria 1,,,
+e24,Cryptology Eprint,2010,Discarded: Primary Exclusion Criteria 1,,,
+e25,Cryptology Eprint,2010,Accepted,Traditional Scheme,Mathematical Proof,-
+e26,Cryptology Eprint,2009,Discarded: Primary Exclusion Criteria 1,,,
+e27,Cryptology Eprint,2009,Labelled,Chameleon Signature,Factoring
+e28,Cryptology Eprint,2009,Discarded: Primary Exclusion Criteria 1,,,
+e29,Cryptology Eprint,2009,Accepted,Identity-Based,Chameleon Signature,Discrete Logarithm
+e30,Cryptology Eprint,2008,Discarded: Primary Exclusion Criteria 1,,,
+e31,Cryptology Eprint,2007,Discarded: Primary Exclusion Criteria 1,,,
+e32,Cryptology Eprint,2006,Discarded: Primary Exclusion Criteria 1,,,
+e33,Cryptology Eprint,2005,Discarded: Secondary Exclusion Criteria 1,,,
+e34,Cryptology Eprint,2005,Accepted,Traditional Scheme,Chameleon Signature,VSSR
+e35,Cryptology Eprint,2005,Discarded: Primary Exclusion Criteria 1,,,
+e36,Cryptology Eprint,2004,Discarded: Primary Exclusion Criteria 1,,,
+e37,Cryptology Eprint,2004,Discarded: Primary Exclusion Criteria 1,,,
+e38,Cryptology Eprint,2003,Accepted,Identity-Based,Chameleon Signature,Gap Diffie-Hellman
+e39,Cryptology Eprint,2003,Accepted,Identity-Based,Chameleon Signature,Gap Diffie-Hellman
+e40,Cryptology Eprint,2003,Discarded: Primary Exclusion Criteria 1,,,
+e41,Cryptology Eprint,2003,Discarded: Secondary Exclusion Criteria 1,,,
+e42,Cryptology Eprint,1999,Discarded: Primary Exclusion Criteria 1,,,
+e43,Cryptology Eprint,1998,Accepted,Traditional Scheme,Chameleon Signature,Factoring and Discrete Logarithm
+m1,MDPI,2021,Traditional Scheme,Chameleon Signature,Homomorphic Hash Function
+m2,MDPI,2021,Traditional Scheme,Signature Scheme,-
+m3,MDPI,2019,Discarded: Secondary Exclusion Criteria 1,,,
+m4,MDPI,2019,Accepted,Traditional Scheme,Chameleon Signature,Generic Group
